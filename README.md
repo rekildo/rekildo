@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rekildo&label=Profile%20views&color=0e75b6&style=flat" alt="rekildo" /> </p>
 
-- 🔭 I’m currently working on **Spring boots projects**
+- 🔭 I’m currently working on **Java projects**
 
 - 🌱 I’m currently learning **Java, Spring Boot, SQL, JS, Angular**
 
-- 👯 I’m looking to collaborate on **Java enthusiastic people**
+- 👯 I’m looking to collaborate on **Java Enthusiastic People**
 
 - 🤝 I’m looking for help with **Freshers Jobs**
 
