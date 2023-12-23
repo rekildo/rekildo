@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, SQL, WebServices, REST APIs, JS, Angular**
 
-- 👯 I’m looking to collaborate on **Java Enthusiastic People**
+- 👯 I’m looking to collaborate with **aliens who share a deep enthusiasm for Java programming**
 
 - 🤝 I’m looking for help with **Freshers Jobs**
 
