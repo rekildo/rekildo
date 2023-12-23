@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java projects**
 
-- 🌱 I’m currently learning **Java, Spring Boot, SQL, JS, Angular**
+- 🌱 I’m currently learning **Java, Spring Boot, SQL, WebServices, JS, Angular**
 
 - 👯 I’m looking to collaborate on **Java Enthusiastic People**
 
