@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saurabh salvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh salvi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saurabh salvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saurabh salvi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurabh-salvi-79749b141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Profile - saurabh salvi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/saurabhsalvi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt=" Hacker Rank Profile - saurabh salvi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/saurabhsalvi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saurabhsalvi20" height="30" width="40" /></a>
 </p>
 
