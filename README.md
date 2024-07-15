@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rekildo&label=Profile%20views&color=0e75b6&style=flat" alt="rekildo" /> </p>
 
-- 🔭 I’m currently working on **Java projects**
+- 🔭 I’m currently working on **Enterprise Level projects**
 
 - 🌱 I’m currently learning **Java, Spring Boot, SQL, WebServices, REST APIs, JS**
 
