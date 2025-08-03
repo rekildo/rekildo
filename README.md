@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **aliens who share a deep enthusiasm in coding**
 
-- 🤝 I’m looking for help with **who is funny & loves trekking**
+- 🤝 I’m looking for people **who are funny & go on treks**
 
 - 💬 Ask me about **nothing, cuz i like listening than talking much**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saurabh-salvi-79749b141/](https://www.linkedin.com/in/saurabh-salvi-79749b141/)
 
-- ⚡ Fun fact **i like typing**
+- ⚡ Fun fact **i like typing thats why choosed coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
