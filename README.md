@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rekildo&label=Profile%20views&color=0e75b6&style=flat" alt="rekildo" /> </p>
 
-- 🔭 I’m currently working on **Enterprise Level projects**
+- 🔭 I’m currently working on **upskilling by what, by studying**
 
-- 🌱 I’m currently learning **Java, Spring Boot, SQL, WebServices, REST APIs, JS**
+- 🌱 I’m currently learning **tailwind,JS,React**
 
-- 👯 I’m looking to collaborate with **aliens who share a deep enthusiasm for Java programming**
+- 👯 I’m looking to collaborate with **aliens who share a deep enthusiasm in coding**
 
-- 🤝 I’m looking for help with **Freshers Jobs**
+- 🤝 I’m looking for help with **who is funny & loves trekking**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **nothing, cuz i like listening than talking much**
 
 - 📫 How to reach me **saurabhsalvi20@gmail.com**
 
